@@ -7,5 +7,5 @@
 4. 레포에 생성된 본인의 학번 폴더에 12주차 실습인 "CheckingAccountTests.cs" 코드를 add , push해보세요. 단 remote는 본인의 깃헙 레포 경로여야 합니다.
 5. 이 이후 본인 깃허브 페이지의  "2023_Open-source_development_tools_class" 레포에 접속하면 pull request 요청버튼을 눌러주세요.
 6. 그리고 본인이 짠  "CheckingAccountTests.cs" 코드에 대한 리뷰를 작성하고 "Create pull request" 버튼을 눌러주세요.
-7. 제가 확인하고 merge 하겠습니다!
+7. 제가 확인하고 merge 하겠습니다!!!!
 
