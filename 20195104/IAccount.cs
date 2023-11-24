@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace Accounts
 {
-    internal class IAccount
+    public class IAccount
     {
+        public void Withdraw(double amount);
+        public void Deposit(double amount);
     }
 }
