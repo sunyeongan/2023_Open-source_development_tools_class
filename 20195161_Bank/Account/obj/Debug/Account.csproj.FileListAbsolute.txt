@@ -1,0 +1,7 @@
+C:\Users\sw\source\repos\ConsoleApp3\Account\obj\Debug\Account.csproj.AssemblyReference.cache
+C:\Users\sw\source\repos\ConsoleApp3\Account\obj\Debug\Account.csproj.CoreCompileInputs.cache
+C:\Users\sw\source\repos\ConsoleApp3\Account\bin\Debug\Account.exe.config
+C:\Users\sw\source\repos\ConsoleApp3\Account\bin\Debug\Account.exe
+C:\Users\sw\source\repos\ConsoleApp3\Account\bin\Debug\Account.pdb
+C:\Users\sw\source\repos\ConsoleApp3\Account\obj\Debug\Account.exe
+C:\Users\sw\source\repos\ConsoleApp3\Account\obj\Debug\Account.pdb
