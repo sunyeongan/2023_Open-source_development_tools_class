@@ -17,6 +17,7 @@ namespace bank
 
             bryan.Deposit(5.77);
             bryan.Withdraw(11.22);
+            
             Console.WriteLine("current balance is ${0}", bryan.Balance);
 
         }
