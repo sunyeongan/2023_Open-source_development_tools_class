@@ -1,0 +1,6 @@
+C:\Users\SW\source\repos\Accounts\AccountsTests\bin\Debug\net8.0\CoverletSourceRootsMapping_AccountsTests
+C:\Users\SW\source\repos\Accounts\AccountsTests\obj\Debug\net8.0\AccountsTests.csproj.AssemblyReference.cache
+C:\Users\SW\source\repos\Accounts\AccountsTests\obj\Debug\net8.0\AccountsTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SW\source\repos\Accounts\AccountsTests\obj\Debug\net8.0\AccountsTests.AssemblyInfoInputs.cache
+C:\Users\SW\source\repos\Accounts\AccountsTests\obj\Debug\net8.0\AccountsTests.AssemblyInfo.cs
+C:\Users\SW\source\repos\Accounts\AccountsTests\obj\Debug\net8.0\AccountsTests.csproj.CoreCompileInputs.cache
