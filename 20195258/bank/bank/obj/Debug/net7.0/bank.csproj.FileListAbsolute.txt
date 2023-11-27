@@ -1,0 +1,14 @@
+E:\Code\C#\bank\bank\bin\Debug\net7.0\bank.exe
+E:\Code\C#\bank\bank\bin\Debug\net7.0\bank.deps.json
+E:\Code\C#\bank\bank\bin\Debug\net7.0\bank.runtimeconfig.json
+E:\Code\C#\bank\bank\bin\Debug\net7.0\bank.dll
+E:\Code\C#\bank\bank\bin\Debug\net7.0\bank.pdb
+E:\Code\C#\bank\bank\obj\Debug\net7.0\bank.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C#\bank\bank\obj\Debug\net7.0\bank.AssemblyInfoInputs.cache
+E:\Code\C#\bank\bank\obj\Debug\net7.0\bank.AssemblyInfo.cs
+E:\Code\C#\bank\bank\obj\Debug\net7.0\bank.csproj.CoreCompileInputs.cache
+E:\Code\C#\bank\bank\obj\Debug\net7.0\bank.dll
+E:\Code\C#\bank\bank\obj\Debug\net7.0\refint\bank.dll
+E:\Code\C#\bank\bank\obj\Debug\net7.0\bank.pdb
+E:\Code\C#\bank\bank\obj\Debug\net7.0\bank.genruntimeconfig.cache
+E:\Code\C#\bank\bank\obj\Debug\net7.0\ref\bank.dll
