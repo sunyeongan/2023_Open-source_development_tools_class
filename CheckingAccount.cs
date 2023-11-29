@@ -40,7 +40,7 @@ namespace Bank2
             }
             else
             {
-                throw new ArgumentException(nameof(amount), "Withdraw excedds balance!");
+                throw new ArgumentException(nameof(amount), "Withdraw exceeds balance!");
             }
         }
         public string CustomerName//이름 조회
