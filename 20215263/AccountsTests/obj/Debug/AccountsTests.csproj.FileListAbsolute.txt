@@ -1,0 +1,2 @@
+C:\Users\Admin\source\repos\AccountsTests\obj\Debug\AccountsTests.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\AccountsTests\obj\Debug\AccountsTests.csproj.CoreCompileInputs.cache
