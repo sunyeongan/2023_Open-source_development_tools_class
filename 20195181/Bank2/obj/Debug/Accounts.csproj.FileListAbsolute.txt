@@ -1,0 +1,7 @@
+C:\Users\c\source\repos\HelloCS\Bank2\Bank2\obj\Debug\Accounts.csproj.AssemblyReference.cache
+C:\Users\c\source\repos\HelloCS\Bank2\Bank2\obj\Debug\Accounts.csproj.CoreCompileInputs.cache
+C:\Users\c\source\repos\HelloCS\Bank2\Bank2\bin\Debug\Bank2.exe.config
+C:\Users\c\source\repos\HelloCS\Bank2\Bank2\bin\Debug\Bank2.exe
+C:\Users\c\source\repos\HelloCS\Bank2\Bank2\bin\Debug\Bank2.pdb
+C:\Users\c\source\repos\HelloCS\Bank2\Bank2\obj\Debug\Bank2.exe
+C:\Users\c\source\repos\HelloCS\Bank2\Bank2\obj\Debug\Bank2.pdb
