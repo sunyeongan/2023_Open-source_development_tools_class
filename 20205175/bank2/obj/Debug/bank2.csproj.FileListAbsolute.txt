@@ -1,0 +1,8 @@
+C:\Users\Park\open_2\bank2\bin\Debug\bank2.exe.config
+C:\Users\Park\open_2\bank2\bin\Debug\bank2.exe
+C:\Users\Park\open_2\bank2\bin\Debug\bank2.pdb
+C:\Users\Park\open_2\bank2\obj\Debug\bank2.csproj.AssemblyReference.cache
+C:\Users\Park\open_2\bank2\obj\Debug\bank2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Park\open_2\bank2\obj\Debug\bank2.csproj.CoreCompileInputs.cache
+C:\Users\Park\open_2\bank2\obj\Debug\bank2.exe
+C:\Users\Park\open_2\bank2\obj\Debug\bank2.pdb
