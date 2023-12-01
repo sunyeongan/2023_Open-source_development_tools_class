@@ -1,0 +1,7 @@
+C:\Users\조현서\Desktop\part03\week12\Accounts\obj\Debug\Accounts.csproj.AssemblyReference.cache
+C:\Users\조현서\Desktop\part03\week12\Accounts\obj\Debug\Accounts.csproj.CoreCompileInputs.cache
+C:\Users\조현서\Desktop\part03\week12\Accounts\bin\Debug\Accounts.pdb
+C:\Users\조현서\Desktop\part03\week12\Accounts\obj\Debug\Accounts.pdb
+C:\Users\조현서\Desktop\part03\week12\Accounts\bin\Debug\Accounts.dll.config
+C:\Users\조현서\Desktop\part03\week12\Accounts\bin\Debug\Accounts.dll
+C:\Users\조현서\Desktop\part03\week12\Accounts\obj\Debug\Accounts.dll
