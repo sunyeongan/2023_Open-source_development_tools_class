@@ -1,0 +1,7 @@
+C:\Users\82109\source\repos\MyBank\MyBank\bin\Debug\MyBank.exe.config
+C:\Users\82109\source\repos\MyBank\MyBank\bin\Debug\MyBank.exe
+C:\Users\82109\source\repos\MyBank\MyBank\bin\Debug\MyBank.pdb
+C:\Users\82109\source\repos\MyBank\MyBank\obj\Debug\MyBank.csproj.AssemblyReference.cache
+C:\Users\82109\source\repos\MyBank\MyBank\obj\Debug\MyBank.csproj.CoreCompileInputs.cache
+C:\Users\82109\source\repos\MyBank\MyBank\obj\Debug\MyBank.exe
+C:\Users\82109\source\repos\MyBank\MyBank\obj\Debug\MyBank.pdb
