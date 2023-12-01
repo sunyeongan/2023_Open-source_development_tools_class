@@ -1,17 +1,16 @@
-﻿namespace BankAccountNS
+﻿using System;
+
+namespace BankAccountNS
 {
-    ///
-    ///
-    ///
+    /// <summary>
+    /// Bank account demo class.
+    /// </summary>
     public class BankAccount
     {
         private readonly string m_customerName;
         private double m_balance;
 
-        public const string DebitAmountExceedsBalanceMessage = "Debit amount exceeds balance";
-        public const string DebitAmountLessThanZeroMessage = "Debit amount is less than zero";
-
-        private BankAccount(){ }
+        private BankAccount() { }
 
         public BankAccount(string customerName, double balance)
         {
@@ -21,13 +20,14 @@
 
         public string CustomerName
         {
-            get { return m_customerName;}
+            get { return m_customerName; }
         }
 
         public double Balance
         {
             get { return m_balance; }
         }
+
         public void Debit(double amount)
         {
             if (amount > m_balance)
@@ -40,7 +40,7 @@
                 throw new System.ArgumentOutOfRangeException("amount", amount, DebitAmountLessThanZeroMessage);
             }
 
-            m_balance -= amount;
+            m_balance -= amount; // intentionally incorrect code
         }
 
         public void Credit(double amount)
@@ -59,8 +59,10 @@
 
             ba.Credit(5.77);
             ba.Debit(11.22);
-
-            Console.WriteLine("Current balane is ${0}", ba.Balance);
+            Console.WriteLine("Current balance is ${0}", ba.Balance);
         }
+
+        public const string DebitAmountExceedsBalanceMessage = "Debit amount exceeds balance";
+        public const string DebitAmountLessThanZeroMessage = "Debit amount is less than zero";
     }
 }
